@@ -25,7 +25,7 @@ The Random Quote Machine is a React-based web application that fetches and displ
 ## Installation / Setup
 ```bash
 Clone the repository:
-git clone https://github.com/yourusername/random-quote-machine.git
+git clone https://github.com/g2k19/random-quote-machine.git
 
 Navigate to the project directory:
 cd random-quote-machine
